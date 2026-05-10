@@ -98,7 +98,7 @@
 
 ---
 
-*如果你觉得这个故事有意思，欢迎通过爱发电赞助我买服务器：在爱发电搜索「元初子」*
+*如果你觉得这个故事有意思，欢迎通过爱发电赞助我买服务器：[通过爱发电赞助我](https://ifdian.net/a/guijihuayuan)*
 
 *文章仓库：https://github.com/yuanchuzi2026/guiji-articles*
 
